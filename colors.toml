@@ -1,0 +1,37 @@
+mode = "light"
+
+# Tiny Is Huge: a white coneflower up close. Petal-cream surfaces, beetle-dark
+# text, goldenrod focus from the cone, and leaf greens for growth.
+accent = "#A87700"
+selection = "#EADFB4"
+muted = "#8C927D"
+
+background = "#F7F6EC"
+dark_background = "#EDEDDF"
+darker_background = "#E1E3D0"
+lighter_background = "#E8E9D9"
+
+foreground = "#1E2814"
+dark_foreground = "#686F5C"
+light_foreground = "#36442A"
+bright_foreground = "#121A0B"
+
+# Window focus runs from the sunlit cone into the leaves behind it.
+hyprland_active_border = "#C08B00 #5B7A26 45deg"
+hyprland_inactive_border = "#D4D7C2"
+
+red = "#B04A26"
+yellow = "#8C6500"
+orange = "#A65410"
+green = "#4C7420"
+cyan = "#2B786B"
+blue = "#3A6587"
+magenta = "#9A4A74"
+brown = "#7A5A2C"
+
+bright_red = "#C85A31"
+bright_yellow = "#A87700"
+bright_green = "#5B8A28"
+bright_cyan = "#3A9384"
+bright_blue = "#4A78A0"
+bright_magenta = "#B05C88"
